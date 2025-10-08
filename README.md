@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I’m currently working on a Laravel + Vue3 SaaS platform that helps businesses of all sizes manage their digital workflows. Most of my projects are private, but you can explore them on my portfolio: <a href="https://prodigitaldesigns.com">prodigitaldesigns.com</a> 🌐
+💻 I’m currently working on a Laravel + Vue3 SaaS platform that helps businesses of all sizes manage their digital workflows. Most of my projects are private, but you can explore them on my portfolio: <a target="_blank" rel="noopener noreferrer" href="https://prodigitaldesigns.com">prodigitaldesigns.com</a> 🌐
 
 🤝 I’m looking to collaborate on open-source AI projects, productivity tools, modern web apps using Vue and Laravel, and cloud infrastructure improvements.
 
